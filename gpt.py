@@ -12,8 +12,8 @@ eval_interval = 100
 learning_rate = 3e-4
 device = torch_directml.device()
 eval_iters = 200
-n_embed = 128
-n_heads = [64, 32, 16, 8]
+n_embed = 256
+n_heads = [128, 64, 32, 16, 8, 4]
 dropout = 0.5
 
 torch.manual_seed(1337)
