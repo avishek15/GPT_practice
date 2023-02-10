@@ -1,0 +1,9 @@
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/GPT_practice.iml
+.ipynb_checkpoints/gpt-dev-checkpoint.ipynb
+.idea/modules.xml
+.idea/misc.xml
+dataset/Marriage_teaser.mp4
+*.gz
+*.mp4
